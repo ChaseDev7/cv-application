@@ -1,0 +1,15 @@
+.general-information {
+  background-color: white;
+  border-radius: 15px;
+  padding: 5px 15px;
+  margin: 20px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50px;
+}
+
+h3 {
+  margin: 0;
+}
